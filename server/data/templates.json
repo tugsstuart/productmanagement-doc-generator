@@ -1,0 +1,26 @@
+{
+  "PRD": {
+    "name": "Product Requirements Document",
+    "prompt": "You are a senior product manager. Generate a comprehensive Product Requirements Document (PRD) with the following structure:\n\n1. **Product Overview**\n   - Problem Statement\n   - Solution Summary\n   - Target Audience\n\n2. **Requirements**\n   - Functional Requirements\n   - Non-Functional Requirements\n   - Technical Constraints\n\n3. **User Experience**\n   - User Stories\n   - User Journey\n   - Key Features\n\n4. **Success Metrics**\n   - KPIs\n   - Acceptance Criteria\n\n5. **Timeline & Milestones**\n\nContext: {{context}}\n\nPlease generate a detailed, professional PRD following this structure."
+  },
+  "FRD": {
+    "name": "Functional Requirements Document",
+    "prompt": "You are a business analyst. Generate a detailed Functional Requirements Document (FRD) with the following structure:\n\n1. **Introduction**\n   - Purpose\n   - Scope\n   - Definitions\n\n2. **Functional Requirements**\n   - Business Rules\n   - System Functions\n   - Data Requirements\n\n3. **User Interface Requirements**\n   - Screen Layouts\n   - Navigation Flow\n   - Input/Output Specifications\n\n4. **Integration Requirements**\n   - External Systems\n   - APIs\n   - Data Exchange\n\n5. **Validation & Testing**\n   - Test Scenarios\n   - Validation Rules\n\nContext: {{context}}\n\nGenerate a comprehensive FRD with specific, measurable requirements."
+  },
+  "UAT": {
+    "name": "User Acceptance Testing",
+    "prompt": "You are a QA engineer. Generate comprehensive User Acceptance Testing (UAT) documentation with:\n\n1. **Test Plan Overview**\n   - Objectives\n   - Scope\n   - Test Strategy\n\n2. **Test Cases**\n   - Preconditions\n   - Test Steps\n   - Expected Results\n   - Pass/Fail Criteria\n\n3. **Test Scenarios**\n   - Happy Path\n   - Edge Cases\n   - Error Conditions\n\n4. **Test Data Requirements**\n\n5. **Sign-off Criteria**\n\nContext: {{context}}\n\nCreate detailed, executable test cases that ensure the product meets user requirements."
+  },
+  "UserStories": {
+    "name": "User Stories",
+    "prompt": "Generate comprehensive user stories in the standard format:\n\n**As a** [type of user]\n**I want** [goal/functionality]\n**So that** [benefit/reason]\n\n**Acceptance Criteria:**\n- Given [context]\n- When [action]\n- Then [expected outcome]\n\nInclude:\n1. Epic-level stories\n2. Feature-level stories\n3. Task-level stories\n4. Priority levels (High/Medium/Low)\n5. Story points estimation\n6. Dependencies\n\nContext: {{context}}\n\nGenerate 8-12 detailed user stories covering the main functionality and edge cases."
+  },
+  "AcceptanceCriteria": {
+    "name": "Acceptance Criteria",
+    "prompt": "Generate detailed acceptance criteria using the Given/When/Then format (Gherkin syntax):\n\n**Feature:** [Feature name]\n\n**Scenario:** [Scenario description]\n**Given** [initial context/state]\n**When** [action/event]\n**Then** [expected outcome]\n**And** [additional outcomes if needed]\n\nInclude:\n1. Happy path scenarios\n2. Alternative flows\n3. Error scenarios\n4. Edge cases\n5. Performance criteria\n6. Security requirements\n\nContext: {{context}}\n\nCreate comprehensive, testable acceptance criteria that clearly define when the feature is complete and working correctly."
+  },
+  "MoM": {
+    "name": "Meeting Minutes",
+    "prompt": "Generate professional Meeting Minutes with the following structure:\n\n1. **Meeting Details**\n   - Date & Time\n   - Attendees\n   - Meeting Purpose\n\n2. **Agenda Items Discussed**\n   - Key topics covered\n   - Decisions made\n   - Action items assigned\n\n3. **Action Items**\n   - Task description\n   - Assigned to\n   - Due date\n   - Priority\n\n4. **Next Steps**\n   - Follow-up meetings\n   - Deliverables\n   - Timeline\n\n5. **Additional Notes**\n\nContext: {{context}}\n\nGenerate clear, actionable meeting minutes that capture key decisions and next steps."
+  }
+}
