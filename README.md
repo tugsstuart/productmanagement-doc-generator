@@ -1,4 +1,9 @@
-# Product Documentation Generator
+# 🤖 Product Documentation Generator
+
+[![GitHub stars](https://img.shields.io/github/stars/shrinandan1686/productmanagement-doc-generator?style=social)](https://github.com/shrinandan1686/productmanagement-doc-generator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shrinandan1686/productmanagement-doc-generator?style=social)](https://github.com/shrinandan1686/productmanagement-doc-generator/network)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A full-stack web application that uses AI to generate professional product documentation including PRDs, FRDs, User Stories, Acceptance Criteria, UAT documents, and Meeting Minutes.
 
@@ -116,3 +121,4 @@ NEXT_PUBLIC_API_URL=http://localhost:3001
 ## License
 
 MIT License - feel free to use this project for commercial or personal use.
+
